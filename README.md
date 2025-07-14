@@ -23,7 +23,7 @@ const daniel = {
     
     workingOn: {
         frontend: ["React","Modern CSS"],
-        backend: ["Node.js", "Django", "Express.js"],
+        backend: ["Node.js", "Django", "Express.js", "Flask"],
         databases: ["MongoDB", "PostgreSQL", "SQLite"],
         tools: ["Docker", "AWS", "Git"]
     },
