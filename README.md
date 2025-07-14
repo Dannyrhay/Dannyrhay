@@ -1,113 +1,144 @@
-Hi there, I'm Daniel Oppong-Boah 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm Daniel Oppong-Boah
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Computer+Engineering+Graduate;Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+</div>
+
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/your-username">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-username%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Daniel's GitHub Stats" />
-</a>
-<a href="https://www.google.com/search?q=https://github.com/your-username">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-username%26layout%3Dcompact%26langs_count%3D8%26theme%3Ddracula" alt="Daniel's Top Languages" />
-</a>
+  <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/your-username?style=flat-square&color=blue" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Ghana-success" />
 </p>
 
-I am a dynamic and innovative Computer Engineering graduate with a passion for developing responsive and user-friendly web applications. My expertise spans both frontend and backend technologies, and I enjoy leveraging my skills in data analysis and graphic design to create impactful, data-driven solutions. I am a lifelong learner, constantly exploring new technologies to solve real-world challenges.
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"/> About Me
 
-🛠️ My Tech Stack
-A collection of the technologies I'm proficient in and use regularly.
+```javascript
+const daniel = {
+    location: "Greater Accra, Ghana 🇬🇭",
+    education: "Computer Engineering Graduate",
+    currentFocus: "Full Stack Web Development",
+    interests: ["Machine Learning", "Data Analysis", "UI/UX Design"],
+    motto: "Code. Create. Innovate. Repeat.",
+    
+    workingOn: {
+        frontend: ["React", "Vue.js", "Modern CSS"],
+        backend: ["Node.js", "Django", "Express.js"],
+        databases: ["MongoDB", "PostgreSQL", "SQLite"],
+        tools: ["Docker", "AWS", "Git"]
+    },
+    
+    currentlyLearning: ["TypeScript", "Next.js", "GraphQL"],
+    askMeAbout: ["Web Development", "Machine Learning", "Trading Bots"],
+    funFact: "I can debug code and design graphics with equal enthusiasm! 🎨💻"
+};
+```
 
-Languages:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Daniel's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="Daniel's GitHub Streak" />
+</div>
 
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&langs_count=8" alt="Daniel's Top Languages" />
+</div>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/> Tech Stack
+
+<details>
+<summary><b>🚀 Languages & Frameworks</b></summary>
+
+```
+Programming Languages:
+███████████████████████████████████████████████████████████████ 100%
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,typescript" />
 </p>
 
+```
 Frameworks & Libraries:
+███████████████████████████████████████████████████████████████ 100%
+```
 
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Django-092E20%3Fstyle%3Dfor-the-badge%26logo%3Ddjango%26logoColor%3Dwhite" alt="Django"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Django%2520REST-A30000%3Fstyle%3Dfor-the-badge%26logo%3Ddjango%26logoColor%3Dwhite" alt="Django REST Framework"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node.js"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Express.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite" alt="Express.js"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express,react,vue" />
 </p>
 
-Databases & Tools:
+</details>
 
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQLite-003B57%3Fstyle%3Dfor-the-badge%26logo%3Dsqlite%26logoColor%3Dwhite" alt="SQLite"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Puppeteer-40B5A4%3Fstyle%3Dfor-the-badge%26logo%3Dpuppeteer%26logoColor%3Dwhite" alt="Puppeteer"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/WordPress-21759B%3Fstyle%3Dfor-the-badge%26logo%3Dwordpress%26logoColor%3Dwhite" alt="WordPress"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Photoshop-31A8FF%3Fstyle%3Dfor-the-badge%26logo%3Dadobephotoshop%26logoColor%3Dblack" alt="Photoshop"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Canva-00C4CC%3Fstyle%3Dfor-the-badge%26logo%3Dcanva%26logoColor%3Dwhite" alt="Canva"/>
+<details>
+<summary><b>🛠️ Tools & Technologies</b></summary>
+
+```
+Development Tools:
+███████████████████████████████████████████████████████████████ 100%
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws" />
 </p>
 
-🚀 My Projects
-Here are some of the projects I'm most proud of. You can find more on my repositories page.
+```
+Databases & Design:
+███████████████████████████████████████████████████████████████ 100%
+```
 
-Project
-
-Description
-
-GitHub Repo
-
-Live Demo
-
-News Detector WebApp
-
-A machine learning app to predict if news is real or fake using Python and NLP models.
-
-Link
-
-Link
-
-EA-Forex Trading Bot
-
-An automated trading bot using Python and MetaTrader 5 with ML signal validation.
-
-Link
-
-(Testing Stage)
-
-Personal Portfolio
-
-A responsive portfolio website built with HTML, CSS, and JavaScript to showcase my work.
-
-Link
-
-Link
-
-Web Scraper Tool
-
-A data extraction tool created with Node.js and Puppeteer for website analysis.
-
-Link
-
-N/A
-
-Wedding Website
-
-A simple and elegant wedding website with event details and RSVP functionality.
-
-Link
-
-Link
-
-📫 Let's Connect!
-I'm always open to connecting with other developers, discussing new ideas, or exploring opportunities.
-
-<p align="left">
-<a href="mailto:your-email@example.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-<a href="https://www.google.com/search?q=https://your-portfolio-website.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-255E63%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Portfolio"/>
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,postgres,photoshop,figma" />
 </p>
 
-📍 Top base Gbawe, Greater Accra, Ghana
+</details>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> Featured Projects
+
+<div align="center">
+
+| 🔥 **Project** | 📝 **Description** | 🚀 **Tech Stack** | 🔗 **Links** |
+|:---:|:---:|:---:|:---:|
+| **News Detector WebApp** | AI-powered fake news detection using NLP | `Python` `Machine Learning` `NLP` | [Code](https://github.com/your-username/news-detector) • [Live](https://your-demo-link.com) |
+| **EA-Forex Trading Bot** | Automated trading with ML signal validation | `Python` `MetaTrader 5` `ML` | [Code](https://github.com/your-username/forex-bot) • `Testing` |
+| **Personal Portfolio** | Responsive portfolio showcasing my work | `HTML5` `CSS3` `JavaScript` | [Code](https://github.com/your-username/portfolio) • [Live](https://your-portfolio.com) |
+| **Web Scraper Tool** | Data extraction tool for website analysis | `Node.js` `Puppeteer` `Express` | [Code](https://github.com/your-username/web-scraper) • `Private` |
+| **Wedding Website** | Elegant wedding site with RSVP functionality | `HTML` `CSS` `JavaScript` | [Code](https://github.com/your-username/wedding-site) • [Live](https://wedding-demo.com) |
+
+</div>
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"/> GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=444C56" alt="Daniel's GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight&bg_color=0D1117&border=444C56&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="Daniel's GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true&custom_title=Daniel's%20Contribution%20Graph" alt="Daniel's Activity Graph"/>
+</div>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"/> Let's Connect!
+
+<div align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://your-portfolio-website.com">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://twitter.com/your-twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Always%20open%20to%20collaborate%20on%20exciting%20projects&descAlignY=50&descAlign=62"/>
+</div>
+
+<div align="center">
+  <b>⭐ Star some repositories if you find them interesting!</b>
+</div>
