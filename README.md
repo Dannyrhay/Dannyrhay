@@ -63,7 +63,7 @@ Frameworks & Libraries:
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,nodejs,express,react,vue" />
+  <img src="https://skillicons.dev/icons?i=django,flask,nodejs,express,react" />
 </p>
 
 </details>
@@ -86,7 +86,7 @@ Databases & Design:
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,postgres,photoshop,figma" />
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,postgres,photoshop,figma,canva" />
 </p>
 
 </details>
